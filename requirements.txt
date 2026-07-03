@@ -1,0 +1,10 @@
+# Core dependencies -- required to run demo.py in mock mode (no API key, no network).
+PyMuPDF>=1.23
+opencv-python>=4.8
+Pillow>=10.0
+openpyxl>=3.1
+numpy>=1.24
+
+# Optional -- only needed if MISTRAL_API_KEY is set and the real Stage-1/
+# Stage-2 API call paths in ledgerlens/ocr.py and ledgerlens/vlm.py are used.
+requests>=2.31
