@@ -109,5 +109,5 @@ PyMuPDF (PDF rendering) · OpenCV & Pillow (image preprocessing) · a generic cl
 
 ## Author
 
-Patel Vishnu Jayantibhai
+Preet Dave 
 B.E. CSE (AI-ML), NLJIET (GTU)
